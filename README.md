@@ -71,7 +71,7 @@ After analysing the simulated output,
 
 ## Output
 
-<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/aab65144-354d-48df-95da-778267cab741" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 162844" src="https://github.com/user-attachments/assets/3c114d83-6387-46cf-bc64-8b703fed9f1e" />
 
 ## Result
 Thus the experiment is simulated and verifeid successfully. 
