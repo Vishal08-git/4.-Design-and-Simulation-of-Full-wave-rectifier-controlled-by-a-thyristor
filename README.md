@@ -74,4 +74,4 @@ After analysing the simulated output,
 <img width="1920" height="1080" alt="Screenshot 2026-02-07 162844" src="https://github.com/user-attachments/assets/3c114d83-6387-46cf-bc64-8b703fed9f1e" />
 
 ## Result
-Thus the experiment is simulated and verifeid successfully. 
+Thus the experiment is simulated and verified successfully. 
